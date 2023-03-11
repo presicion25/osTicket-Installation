@@ -185,4 +185,4 @@ Step 11. After navigating to http://localhost/osTicket/setup/install, rename the
 <br />
 
 
-For the the next tutorial in this series go<a href=https://github.com/presicion25/osTicket-Configuration>here</a></h2>
+For the the next tutorial in this series go <a href=https://github.com/presicion25/osTicket-Configuration>here</a></h2>
