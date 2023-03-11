@@ -173,7 +173,7 @@ Step 10. Note that some extensions are not enabled
 <br />
 <br />
 
-Step 11. Rename: ost-config.php
+Step 11. After navigating to http://localhost/osTicket/setup/install, rename the ost-config.php file (see below)
 
 - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
