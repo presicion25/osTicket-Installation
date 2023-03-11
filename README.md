@@ -149,6 +149,29 @@ Step 9. Install osTicket v1.15.8
 <br />
 <br />
 
+Step 10. Note that some extensions are not enabled
+ 
+- 10b. Go back to IIS, sites -> Default -> osTicket and double click PHP manager
+
+<p align="center">
+<img src="https://imgur.com/9bPE4OV.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+- 10c. Click “Enable or disable an extension” and enable these extensions: php_imap.dll, php_intl.dll, php_opcache.dll
+
+<p align="center">
+<img src="https://imgur.com/sKw7cTW.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+<p align="center">
+<img src="https://imgur.com/UeF0kNg.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
 
 
