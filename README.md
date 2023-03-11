@@ -23,7 +23,7 @@
 Step 1. Install / Enable IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI)
 
 <p align="center">
-<img src="https://imgur.com/Wyz1cHU.png alt="Traffic Examination"/>
+<img src="https://imgur.com/TLFqV00.png alt="Traffic Examination"/>
 </p>
 <br />
 <br />
@@ -62,7 +62,11 @@ Step 5. From the installation files unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x8
 
 Step 6. From the installation files install VC_redist.x86.exe.
 
-
+<p align="center">
+<img src="https://imgur.com/bsCwU9j.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
 
 
