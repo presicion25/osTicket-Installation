@@ -4,6 +4,14 @@
 <br />
 <br />
 
+<h2>Technologies and Environments Used<a><h2/>
+
+- Azure Virtual Machines
+- PHP Manager
+- MySQL
+- osTicket (Help Desk Ticketing System)
+
+
 <h2>In this tutorial I will install osTicket on an Azure VM (Virtual Machine). This tutorial assumes you have already created a VM and are logged in to it. These are the install files for osTicket they can be found <a href= https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 /> here <a><h2/>
 
 <p align="center">
