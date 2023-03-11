@@ -173,48 +173,14 @@ Step 10. Note that some extensions are not enabled
 <br />
 <br />
 
+Step 11. Rename: ost-config.php
 
+- From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+<img src="https://imgur.com/D1ABrGV.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
