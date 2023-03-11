@@ -96,7 +96,7 @@ Step 7. From the installation files install MySQL 5.5.62 (mysql-5.5.62-win32.msi
 <br />
 <br />
 
-Step 8. Open IIS as an Admin and register PHP 
+Step 8. Open IIS as an Admin, register PHP, then restart the server 
 
 
 <p align="center">
@@ -111,6 +111,48 @@ Step 8. Open IIS as an Admin and register PHP
 </p>
 <br />
 <br />
+
+8c.
+<p align="center">
+<img src="https://imgur.com/ASXOKyF.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+8d.
+<p align="center">
+<img src="https://imgur.com/GLi5Pqf.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+Step 9. Install osTicket v1.15.8
+
+
+<p align="center">
+<img src="https://imgur.com/GBdqll4.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+9b. Copy “upload” folder to c:\inetpub\wwwroot
+<p align="center">
+<img src="https://imgur.com/4jdRjRF.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+9c. Within C:\inetpub\wwwroot, rename “upload” to “osTicket”
+<p align="center">
+<img src="https://imgur.com/772EfbX.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+
+
+
 
 
 
