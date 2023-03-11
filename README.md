@@ -20,10 +20,83 @@
 <br />
 <br />
 
-Step 1. From the Installation Files, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+Step 1. Install / Enable IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI)
+
+<p align="center">
+<img src="https://imgur.com/Wyz1cHU.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+Step 2. From the Installation Files, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
 <p align="center">
 <img src="https://imgur.com/hX8SZyK.png alt="Traffic Examination"/>
 </p>
 <br />
 <br />
+
+Step 3. From the Installation Files, install the Rewrite Module (rewrite_amd64_en-US.msi)
+
+<p align="center">
+<img src="https://imgur.com/hX8SZyK.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+Step 4. Create the directory C:\PHP
+
+<p align="center">
+<img src="https://imgur.com/70SOSrg.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+Step 5. From the Installation Files unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP
+
+<p align="center">
+<img src="https://imgur.com/bJ4SjBM.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
