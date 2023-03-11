@@ -69,6 +69,36 @@ Step 6. From the installation files install VC_redist.x86.exe.
 <br />
 
 
+Step 7. From the installation files install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+ - Typical Setup ->
+ - Launch Configuration Wizard (after install) ->
+ - Standard Configuration ->
+ - Password1
+
+7.b
+<p align="center">
+<img src="https://imgur.com/1rBQpJ2.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+7c.
+<p align="center">
+<img src="https://imgur.com/NQInyxj.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+7d.
+<p align="center">
+<img src="https://imgur.com/qBAMYl6.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+
+
 
 
 
