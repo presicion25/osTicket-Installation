@@ -96,6 +96,23 @@ Step 7. From the installation files install MySQL 5.5.62 (mysql-5.5.62-win32.msi
 <br />
 <br />
 
+Step 8. Open IIS as an Admin and register PHP 
+
+
+<p align="center">
+<img src="https://imgur.com/Wyz1cHU.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+8b.
+<p align="center">
+<img src="https://imgur.com/xUuPB6u.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
 
 
 
