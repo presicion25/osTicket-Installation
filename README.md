@@ -203,6 +203,6 @@ Step 14. Click the Dashboard tab and you should see the following screen:
 </p>
 
 Success! You have installed osTicket!
-
+Thank You for reading!
 
 For the the next tutorial in this series go <a href=https://github.com/presicion25/osTicket-Configuration>here</a></h2>
