@@ -192,11 +192,34 @@ Step 12. After changing the ost-config.php file and clicking continue and you sh
 <br />
 <br />
 
-Step 13. Once the above information is filled in click save changes at the bottom of the screen.
+Once the above information is filled in click save changes at the bottom of the screen.
 <br />
 <br />
 
-Step 14. Click the Dashboard tab and you should see the following screen:
+Step 13. From the installation files install HeidiSQL
+
+- Open Heidi SQL
+- Create a new session, root/Password1
+- Connect to the session
+- Create a database called “osTicket”
+- Click Open
+
+<p align="center">
+<img src="https://imgur.com/Xwg85Fr.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+13b. After you click open you should see the following screen:
+
+<p align="center">
+<img src="https://imgur.com/AlvSYKt.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+Step 14. Back in osTicket Click the Dashboard tab and you should see the following screen:
 
 <p align="center">
 <img src="https://imgur.com/T7vYSS5.png alt="Traffic Examination"/>
