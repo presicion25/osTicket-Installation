@@ -207,7 +207,8 @@ Step 13. Back in osTicket Click the Dashboard tab and you should see the followi
 <p align="center">
 <img src="https://imgur.com/T7vYSS5.png alt="Traffic Examination"/>
 </p>
-
+<br />
+<br />
 
 Step 14. From the installation files install HeidiSQL
 
