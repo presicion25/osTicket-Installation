@@ -192,8 +192,17 @@ Step 12. After changing the ost-config.php file and clicking continue and you sh
 <br />
 <br />
 
-Once the above information is filled in click save changes at the bottom of the screen.
+Step 13. Once the above information is filled in click save changes at the bottom of the screen.
+<br />
+<br />
 
+Step 14. Click the Dashboard tab and you should see the following screen:
+
+<p align="center">
+<img src="https://imgur.com/T7vYSS5.png alt="Traffic Examination"/>
+</p>
+
+Success! You have installed osTicket!
 
 
 For the the next tutorial in this series go <a href=https://github.com/presicion25/osTicket-Configuration>here</a></h2>
