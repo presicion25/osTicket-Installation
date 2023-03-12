@@ -173,7 +173,7 @@ Step 10. Note that some extensions are not enabled
 <br />
 <br />
 
-Step 11. After navigating to http://localhost/osTicket/setup/install, rename the ost-config.php file (see below)
+Step 11. After navigating to http://localhost/osTicket/setup/install, rename the ost-config.php file (see below) and click continue.
 
 - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
@@ -183,6 +183,17 @@ Step 11. After navigating to http://localhost/osTicket/setup/install, rename the
 </p>
 <br />
 <br />
+
+Step 12. After changing the ost-config.php file and clicking continue and you should see the following  screen:
+
+<p align="center">
+<img src="https://imgur.com/bklUu4d.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+Once the above information is filled in click save changes at the bottom of the screen.
+
 
 
 For the the next tutorial in this series go <a href=https://github.com/presicion25/osTicket-Configuration>here</a></h2>
