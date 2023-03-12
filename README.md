@@ -196,6 +196,15 @@ Once the above information is filled in click save changes at the bottom of the 
 <br />
 <br />
 
+12b. After saving you should see this screen. Click continue at the bottom of the screen.
+
+<p align="center">
+<img src="https://imgur.com/ZLDvqlg.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
 Step 13. From the installation files install HeidiSQL
 
 - Open Heidi SQL
