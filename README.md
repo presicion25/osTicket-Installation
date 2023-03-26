@@ -39,7 +39,7 @@ Step 2. From the installation files, install PHP Manager for IIS (PHPManagerForI
 Step 3. From the installation files, install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 <p align="center">
-<img src="https://imgur.com/hX8SZyK.png alt="Traffic Examination"/>
+<img src="https://imgur.com/zGzCaig.png alt="Traffic Examination"/>
 </p>
 <br />
 <br />
