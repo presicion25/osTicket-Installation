@@ -75,21 +75,20 @@ Step 7. From the installation files install MySQL 5.5.62 (mysql-5.5.62-win32.msi
  - Standard Configuration ->
  - Password1
 
-7.b
 <p align="center">
 <img src="https://imgur.com/1rBQpJ2.png alt="Traffic Examination"/>
 </p>
 <br />
 <br />
 
-7c.
+7b.
 <p align="center">
 <img src="https://imgur.com/NQInyxj.png alt="Traffic Examination"/>
 </p>
 <br />
 <br />
 
-7d.
+7c.
 <p align="center">
 <img src="https://imgur.com/qBAMYl6.png alt="Traffic Examination"/>
 </p>
