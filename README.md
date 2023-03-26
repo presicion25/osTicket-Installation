@@ -166,7 +166,7 @@ Go back to IIS, sites -> Default -> osTicket and double click PHP manager
 <br />
 <br />
 
-10c.
+10c. Install the three .dll extensions as shown below
 
 <p align="center">
 <img src="https://imgur.com/UeF0kNg.png alt="Traffic Examination"/>
